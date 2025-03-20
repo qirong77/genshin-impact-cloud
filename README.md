@@ -2,7 +2,7 @@
 
 基于 Electron + TypeScript 开发的原神云游戏桌面客户端应用。
 
-🔗[下载链接](https://github.com/qirong77/genshin_clound/releases/download/1.0/genshi_clound-1.0.0.dmg)
+🔗[下载链接：https://github.com/qirong77/genshin_clound/releases/download/1.0/genshi_clound-1.0.0.dmg](https://github.com/qirong77/genshin_clound/releases/download/1.0/genshi_clound-1.0.0.dmg)
 
 ![Alt text](image.png)
 
